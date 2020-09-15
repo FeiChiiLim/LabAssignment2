@@ -21,6 +21,6 @@ def calculate(sheet):
     # output: number of stamps needed
     return rounded
     
-output = calculate(10000)
+output = calculate(16)
 
 print("The number of stamps needed is: ", output)
